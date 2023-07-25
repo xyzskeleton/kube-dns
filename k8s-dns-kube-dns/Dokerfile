@@ -1,2 +1,2 @@
-FROM quay.io/kubevirt/virt-api:v0.58.0
+FROM quay.io/kubevirt/virt-operator
 MAINTAINER Q
