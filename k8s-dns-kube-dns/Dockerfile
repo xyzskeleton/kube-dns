@@ -1,2 +1,2 @@
-FROM quay.io/kubevirt/virt-operator:20230725_574a4c3a2-arm64
+FROM quay.io/kubevirt/virt-operator:v1.0.0-rc.1
 MAINTAINER Q
